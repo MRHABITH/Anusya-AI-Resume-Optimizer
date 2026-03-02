@@ -126,7 +126,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="w-full text-center py-8 mt-12 text-sm text-slate-500 border-t border-slate-800/50 relative z-10 font-mono">
-        © 2026. Anusuya and his team. All rights reserved.
+        © 2026. Anusuya and her team. All rights reserved.
       </footer>
 
       <ResumeChatbot
